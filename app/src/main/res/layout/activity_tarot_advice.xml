@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".TarotAdviceActivity">
+
+
+    <ImageView
+        android:id="@+id/card_image"
+        android:layout_width="match_parent"
+        android:layout_height="536dp"
+        android:layout_margin="16dp"
+        android:src="@drawable/cardback"
+
+        />
+
+    <TextView
+        android:id="@+id/card_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Title"
+        android:gravity="center"/>
+
+    <TextView
+        android:id="@+id/card_description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Description"
+        android:gravity="center"/>
+
+
+    <TextView
+        android:id="@+id/card_advice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="advice"
+        android:gravity="center"/>
+
+
+</LinearLayout>
