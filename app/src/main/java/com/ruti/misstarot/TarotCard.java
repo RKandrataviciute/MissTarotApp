@@ -5,9 +5,9 @@ public class TarotCard {
     private int mTarotimg;
     private String mTitle;
     private String mDescription;
-    private String mAdvice;
+    private int mAdvice;
 
-    public TarotCard(int mTarotimg, String mTitle, String mDescription, String mAdvice) {
+    public TarotCard(int mTarotimg, String mTitle, String mDescription, int mAdvice) {
         this.mTarotimg = mTarotimg;
         this.mTitle = mTitle;
         this.mDescription = mDescription;
@@ -27,7 +27,7 @@ public class TarotCard {
         return mDescription;
     }
 
-    public String getmAdvice() {
+    public int getmAdvice() {
         return mAdvice;
     }
 }

@@ -1,3 +1,290 @@
 <resources>
     <string name="app_name">MissTarot</string>
+    <string name="high_priestess"> <b>The High Priestess</b>. Wisdom and refined receptivity define your basic nature.
+        Not one to make a scene you quietly and carefully take note of everything around you.  Sensitive to the subtlest of energies, you can be depended upon to notice what most of us miss.
+        Your quiet patience and virtuous demeanor often set you on a pedestal people are grateful to bow before.  Your intuition is strong and you tend to use your feelings at least as much as your fine intellect when making decisions that matter.
+        Those represented by the High Priestess have the gift for seeing the whole picture without getting swamped by the details.</string>
+
+    <string name="empress"><b>the Empress</b>.Deeply compassionate and nurturing, you’re a natural mother.
+        If you’re not birthing children, you’re busy birthing new creations in the form of art, food or music, anything that inspires the senses.  You are sensuality embodied and when you focus on your task, unusually prolific.
+        Your kind nature draws many wayward souls your way and you do your best to help them all.  To the Empress, nothing is more important than creation and creation grows from love.</string>
+
+    <string name="emperor"><b>the Emperor</b>.  Assertive and confident, you have a strong sense of your own dominion.
+    You work hard to create the world you want to live in and have little tolerance for upstarts pushing in uninvited.  Once you’ve set your mind to something, your focus rarely wavers.  An aura of authority surrounds you, and you are often found in charge.
+    You’re passionate about your convictions and few who know you are unaware of your beliefs.  At your best you are dynamic, logical and know your own power. You can really make things happen, and woe be to those who might try to stop you.</string>
+
+    <string name="hierophant">  <b>The Hierophant</b>. Grounded and firm in your spiritual convictions, people look to you to help them with their important decisions.  You’re often seen as a moral authority and it’s a role you relish.
+        Family, tradition and practicality are highlighted with the Hierophant energy, as is a highly attuned sense of the divine.  You spend a great deal of time trying to bring it down to earth for the rest of us to learn from.
+        At times unyielding, you’re sense of right and wrong is firmly defined.  When asked to make judgement, the Hierophant rarely shies away from the challenge.</string>
+
+    <string name="lovers"><b>The Lovers</b>.  It’s all about the relationships for you, romantic and otherwise.
+        Tending to your networks is a vital component of your personality.  You like to have people around you and are most comfortable as part of a couple.
+        Though often quiet in a crowd, you pay close attention to what’s going on, finding lots to say later when safely home with your other half or close confidantes.
+        Making choices can sometimes be a struggle and you might find yourself flip-flopping a bit till you’re finally ready to commit. But once you do, you generally mean it.
+        Maintaining an open flow between one’s consciousness, unconscious and higher-consciousness helps the Lovers types maintain pleasant and well-balanced dispositions.</string>
+
+    <string name="chariot"><b>The Chariot</b>.
+        You’re at your best when you’re on the move.  Nothing brings you down faster than forcing you to stay in the same place for too long.
+        You work hard and move with the flow of things. Others depend on your fluid stability.  People appreciate your strength and willingness to put in the work you expect from others.
+        You’ve managed to unify the opposite elements within yourself and know what it takes to compromise.
+        Victory is the fruit of the Chariot’s labours as you are ultimately recognized for your determination, focus and steady loyalty.</string>
+
+    <string name="justice"><b>Justice</b>.  Balance is vital to your persona and striving to maintain it is a primary focus.
+        Your respect for authority is related directly to how fair and honest you perceive it to be.  You have no time for liars and despise injustice everywhere.
+        You understand the lessons of karma well, recognizing how the smallest action or thought can cause the grandest of changes.
+        Your passion for justice on a universal level is equal only to your need to maintain equilibrium on the personal level.  It’s important that Justice personality types take time to regularly realign themselves, rejuvenate and rejoice.</string>
+
+    <string name="hermit"><b>the Hermit </b>.  Questions of the spirit drive you to look within yourself to find your way.
+        Though you’re often most content alone, you rarely turn people away who are seriously looking for advice.  And they often appear.
+        In their search for truth, you encourage others to look within, just as you try to. You have faith only in what you know from experience – your own and those of others you trust.
+        Gathering your thoughts and building your spirit takes time and patient silence.  But it’s well worth it.
+        Despite their solemnity, the Hermit type typically loves life and enjoys a good laugh.</string>
+
+    <string name="magician"><b>The Magician</b>.
+        Visionary and inspirational, you’re the person people go to for new ideas.  You’ve got the uncanny ability to turn your ideas into reality – or at least get others so excited that they do it for you.
+        Focus is a key to your success.  If you put your mind to something in a serious way, you’re almost assured that it will become a reality.  Communications and clear quick thinking are your gifts.
+        Magic is nothing more than the manipulation of energy to one’s will.  At their best, Magician types are positive masters of manipulation.your personality is represented by the Wheel of Fortune.
+        Opportunity and new horizons keep your life spinning with regular change and new perspectives.  You gather experiences from all walks of life and mold them into new prospects for your future.
+        Creative communication and a willingness to move on are integral parts of your personality.  Getting stuck in a rut drives you crazy, and if you ever feel trapped, the faster you shake things up the better.
+        The world never stops, and neither can you.  Wheel of Fortune types expect good fortune to come their way, and it usually does.</string>
+
+
+    <string name="wheel_of_fortune"> <b>The Wheel of Fortune</b>.
+        Opportunity and new horizons keep your life spinning with regular change and new perspectives.  You gather experiences from all walks of life and mold them into new prospects for your future.
+        Creative communication and a willingness to move on are integral parts of your personality.  Getting stuck in a rut drives you crazy, and if you ever feel trapped, the faster you shake things up the better.
+        The world never stops, and neither can you.  Wheel of Fortune types expect good fortune to come their way, and it usually does.</string>
+
+    <string name="strength"><b>Strength</b>.
+        You have a fiery nature and yet know how to direct your inner wildness to foster your personal power.
+        Balancing the beast within with an innocent outlook and compassionate wisdom allows you to attain your goals.   You have the ability to live with passion, while remaining mentally at peace.
+        Courage and integrity are your gifts when you focus and stay true to your inner wisdom.  There’s more power in the gentle touch than in forcing an issue with rage and impetuosity.
+        The Strength personality has a strong lust for life and a particular appreciation for its eternal cycles.</string>
+    <string name="hanged_man"><b>the Hanged Man</b>.
+        You’re a person who recognizes the importance of sacrifice and patience.  Patience is a virtue, allowing the time necessary to see all sides.  Sacrifice is a pre-requisite to enlightenment.
+        Sometimes there’s a higher purpose than our immediate selves, and you are particularly good at seeing it.  When you take your time and look at things from different perspectives, you’re able to discover your true path.
+        Watch carefully and you always know when the time is finally right to act.  The Hanged Man personality feels most comfortable when they manage to align their higher principles with their mental attitudes and physical behaviours.</string>
+    <string name="death"><b>Death</b>
+        Transformation and renewal is natural to you, not something to be avoided or frightened of.  You recognize the importance of letting go of elements in your life that are no longer useful, or hold you back from the future you’re trying to create.
+        New opportunities can only be realized when the clutter from the past is cleared.  You are especially adept at moving forward when the time comes.
+        Holding on to the past, or wallowing in the loss of times gone by will only stagnate your inner growth.
+        The Death personality is aware that the constant cycle of death and rebirth is nothing less than life itself.  One is not possible without the other..</string>
+    <string name="temperance"><b> Temperance</b>.  Internal balance or the struggle towards it is integral to your personality.
+        You strive for harmony between your emotional/spiritual and physical/mental self.  Sometimes this is a difficult but discipline and self-control teaches you to blend these opposites to create a beautiful whole.
+        You’re able to bring the lessons from the past to the present in new and innovative ways.
+        The Temperance personality is especially attuned to the messages of the divine and at their best serve as bridges between the spirit and earthly plains.
+        Life flows most smoothly when you pay attention to your soul’s voice and the Temperance personality can be especially adept at doing so.</string>
+    <string name="devil"><b> Devil</b>.  Intense and at times obsessive, when you focus on something you keep at till its done.
+        You’re more concerned with what you can see and touch than any airy-fairy theories.  And you don’t have a lot of patience for those that don’t want to get down and dirty when the time is right.
+        But when you play, you play hard, and no one likes to laugh at how crazy we all are than you.  To the Devil personality, nothing is taboo.
+        As far as you’re concerned, people can do what they will, but they should do it like they mean it.</string>
+    <string name="tower"><b>the Tower</b>.
+        Try as you might to keep the world structured and steady, it always seems to tumble down around you.  Just as you mortar that last brick in place, lightening strikes and you’re starting it all again.
+        Or maybe it’s you that’s shaking things up or acting as a lightening rod to the crazy world around you.There are few people more able to withstand the storm than those born with the Tower as their symbol.   Your strength and fortitude is enormous, especially when the going gets tough.
+        Experience has taught you that nothing lasts forever, regardless of how permanent it might appear.  And anyway, sometimes the walls become more a prison than a shelter.
+        The Tower personality knows this well and lets change happen when it needs to, though sometimes they might need a little nudge.</string>
+    <string name="star"><b>The Star</b>.
+        Full of hope, even in the bleakest of situations, your optimism is infectious.  People gravitate to your compassionate and energizing personality.
+        You have great faith in the Universe’s capacity to give us what we need when we need it most.  You’ve seen how ugly things can be, yet you retain an unswerving devotion to beauty.
+        The Star personality has the gift of rejuvenation.  You’re able to replenish yourself and others with your grace, charm and love for all the creatures of the universe.</string>
+    <string name="moon"><b>The Moon</b>.
+        There’s often a shroud of mystery surrounding you, but it’s certainly not because you don’t let others know what you think.  You’re willing to ask the hard questions and squarely face your fears.
+        You’ve got a depth to your personality that makes people want to know more.  Your friends and associates often have the sense that you’re not revealing everything, even if you talk a lot.
+        Highly intuitive, and often psychic, Moon personalities are typically interested in the occult and/or other topics on the darker side.</string>
+    <string name="sun"><b>TThe Sun</b>.  You’re the type of person people notice.
+        Though playful and fun, you’re certainly no lightweight. The Sun’s the centre of our universe, and like it, you too enjoy being centre stage sharing your shine with the world.
+        You balk at boundaries and require mastery of your own destiny.  In fact, it’s hard for you to bend to another’s will, and your sunny disposition quickly turns cloudy if you feel someone is trying to control you.
+        You’re willing to be vulnerable, but only if it means you’re free to be your true self.
+        Decidedly artistic and imaginative, the Sun personality shines brightest when given an opportunity to create. And create they will, big, bright and hot enough for everyone to see.
+        Those whose tarot number adds up to 19 have two other tarot cards associated with them.</string>
+    <string name="judgement"><b>Judgement</b>.
+        The concepts of resurrection and renewal are important to your life.  Reaching towards the divine, you find strength in honest reflection and inspiration in the changing cycles of life.
+        People depend on your integrity and straightforward truthfulness.  You have an aura of sincerity few can match.
+        You’re especially good at managing the interplay of your consciousness, unconscious and higher-consciousness.
+        Often an integral part of your community, the Judgement personality feels especially comfortable when helping others find their own sources of renewal.</string>
+    <string name="world"><b>The World</b>.
+        You’ve got an uncanny ability to merge your conscious self with your unconscious self.  You understand that ultimately they are the same and your thoughts and creativity flow freely from one to the other.
+        You can create a universe in teacup. Structure does not hinder you.  It only challenges you to find freedom within it.
+        You’re enthusiastic and ready to try everything, because everything is worthwhile and possible.  If you can think it, you know it can be real.
+        You embrace the joy in life and encourage everyone to join you.  The World personality balances the contradictions of life like a pro and is happiest when everyone is dancing.</string>
+    <string name="fool"><b>The Fool</b>.  You enjoy travel on all levels – mental, spiritual, emotional and physical.
+        You’re someone willing to take chances and not so willing to be tied down to any one thing for too long.
+        You can fit in almost everywhere you go and have the capacity to move forward without carrying a lot of baggage.
+        You bring creative enthusiasm, innocence and new ways of looking at things to all your enterprises.  Fool personalities are especially fun to be around and are usually the party favourite.
+        As free flowing as they are, the Fool personality’s soul is hardly flighty.</string>
+
+
+
+
+    <string name="fool_advice">The Fool is telling you to jump in. Do not over think the situation. Just do it!
+        The Fool might indicate that you need to rethink an old way of thinking about something. This could involve restarting from the beginning and creating something new.
+        Be that someone that you want to be.</string>
+    <string name="magician_advice">The Magician advises you to go for it. Whatever it is that you are asking about, don\'t hesitate.
+        It\'s in your reach. You have the resources and power to get what you want. The first thing you need to do is think about which "tool" you want to use.
+        You may not need all of them, but they are all at your disposal. You will find an avenue to get what you want out of the situation.</string>
+    <string name="high_priestess_advice">The High Priestess advises you to keep to yourself. If you have secrets or someone has told you a secret, keep this to yourself.
+        As advice, the High Priestess also asks you to meditate for a while, pause and reflect. This is a period of germination.</string>
+    <string name="empress_advice">The Empress advises you to use your creative intelligence to think about a situation.
+        The Empress is the goddess of creation and the only way to create something is to envision it first.
+        For example, if you want a more organized home you should create a visual image in your mind first.
+        See the way you want everything to look before you tackle the project.
+        This is the key to creating and manifesting what you want in life.
+        See it first in your mind, impress it on your consciousness until it becomes an inseparable part of your subconscious.</string>
+    <string name="emperor_advice">The Emperor could indicate that you need to focus more on logic than emotions.
+        You need to follow through and act with resolve. Do what you say you’ll do. Make a to-do list and complete it.
+        Don’t let your emotions run wild. There is a time and place where the heart is necessary, but when the Emperor turns up in a reading,
+        this is not the time to brood over your heart matters. Use your head. Now is the time for logical, rational energy to manifest in your life.</string>
+    <string name="hierophant_advice">The Hierophant suggest meditation of some kind. You may need to meditate a situation and bring together two opposites.
+    On a mundane level of advice, the Hierophant begs the advice of being a good listener.</string>
+    <string name="lovers_advice">The choice in the Lovers card urges you to go with your instinct and be reunited with that lost part of yourself,
+        but people do what they must do, what life sometimes forces them to do,
+        rather than what their inner self wants them to do.</string>
+    <string name="chariot_advice">The Chariot advises you to set goals and complete them. Even if you have a larger goal in mind, break down your goal into tiers or mini-goals. Don\'t let anything get in your way when you are focusing on completing each goal.
+        Completion, goals setting and focus are key reminders when the Chariot comes up in the advice spot during a tarot reading.
+        If you must come into conflict with yourself, another person or another idea, remember that you cannot have peace without a war.
+        Reconcile these differences to create equilibrium.
+        As Advice the Chariot suggests that you listen to your own inner voice, which is the still voice of the One Universal Spirit, who guides us all.
+        Do not stray from the path that was set out before you. Once you realize that there is only One Will,
+        One Holy Spirit guiding you, then you can begin to work in harmony with all that is around you in the matrix of this world that was designed before you came into this body.</string>
+    <string name="strenght_advice">Subdue any wild urges you have. The only way to manifest what you want in life, is to stay in complete control.
+        Rather than using a full speed train or brute force, use compassion and love. There is something that needs to be quelled.
+        These emotions can be as strong as an angry outburst or unrequited love being bulldozed over to the non-participating party.
+        Hold your emotions at bay. Do not fight fire with fire.</string>
+    <string name="hermit_advice">The Hermit is on the top of the summit, which we can see in the distance on the Fool card. He has reached the highest point in the lower minor arcana.
+        As advice, the Hermit wants you to take the higher road. You have the lantern, the star, that can guide the way for others. If you are in a conflict with someone, show them the path.
+        People are always looking for the something more inside of them, but are sometimes unsure of how to find it. The Hermit can show you the way.\n\n
+        Another important piece of advice that the Hermit bestows on us is that of study. He is a studious, self taught person. It could be asking you to study ancient texts,
+        ancient scripts or take an educational route that is not under mass consciousness.</string>
+    <string name="wheel_of_fortune_advice">Do not hesitate to follow the whisper of the Wheel as you walk through a new door of opportunity.
+        It is time for that good karma to return to you, accept it with confidence and gratitude.</string>
+    <string name="justice_advice">The advice of Justice is to play fair, be fair, balance things out between you and this person. Give them their share of the pie even if it means you do not get as much as you want</string>
+
+    <string name="hanged_man_advice">Surrender to that of which you do not understand, but want to gain knowledge in.
+        Do not force anything. Let go and surrender to time and patience. You cannot force things to happen, if you do they might never happen.
+        More simply: Just wait.\n
+        Another useful piece of Hanged Man advice is to try and see a situation in a different light. Reverse your way of thinking.</string>
+    <string name="death_advice">It is easy to understand, more difficult to do. The death card as advice for actions says simply:
+        Make a complete break with all things from the past, and do not return. That can mean families and marriages, jobs, attitudes, possessions,
+        even the state or country you live in, depending on the question</string>
+
+    <string name="temperance_advice">Temperance advises you to  keep your cool and not get hot tempered.</string>
+
+    <string name="devil_advice">Be careful while signing contracts. "The devil is in the details," is the phrase that comes to mind.</string>
+
+    <string name="tower_advice">Lies have been built around a situation. Do not be fooled. The Tower advises you to dig around and find out the truth.
+        Maybe you started dating someone who is married. Go ahead and google their name. Find out the truth.</string>
+
+    <string name="star_advice">Do not take the advice of the Star card lightly! The Star as advice calls for taking care of your health. You should rest, rejuvenate,
+        take a hot bath or go to the spa. Tarot is advising that you need to rest and recuperate so that you can be your best another day.</string>
+    <string name="moon_advice">The Moon in tarot advises you to allow things to germinate in your mind. It’s not a time to act, but to dream. Actively dream and listen to them when you sleep. It’s a period of recuperation where you body and mind need time for sleep and rest.
+        Allow ideas to flow in and out of your mind, but don’t act on any of them just yet. Wait until the time is right to act.
+        For now allow things to develop into a concrete idea.</string>
+    <string name="sun_advice">You need to clarify a situation. Subconscious maybe coming together with consciousness. Great awareness can be realized when our conscious mind comes together in harmony with subconscious awareness.
+        As advice, it may be telling you to take a negative situation and see it in a positive way.\n
+        A lot of times tarot is literal, so it could have to do with a child or children. Perhaps you see your children as having a bad habit or a temper.
+        Remember, those qualities can be molded into positive qualities.
+        You may want to drop subconscious hints to your child or your inner child, so that those qualities can affect your awareness.</string>
+    <string name="judgment_advice">Advises you to resurrect something that you think might be worth salvaging. So make that phone call or write that letter.\n
+        On the other hand, Judgement as advice is asking you to look at the situation from all sides. Is it worth salvaging? Is the relationship really working?
+        Maybe it is time to see things as they really are and not as you want them to be.</string>
+    <string name="world_advice">The World advises you to recognize an ending to something. It also tells you to be happy, content and complete within yourself and in your own world.</string>
+
+
+
+    <string name="wands_ace_advice">As advice card, Ace of Wands asks you to use your creative powers and act. Motion creates energy. Begin, put in your efforts, make the first step. Before you know it, your path will be clear before you</string>
+    <string name="wands_two_advice">Whether it be writing it out or talking it through, set a solid foundation for the future. Be patient and make decisions only after all thoughts have been extinguished. This is not a good time to make rash decisions.
+        It is a good time to take survey of all that needs to be done.</string>
+    <string name="wands_three_advice">Allow yourself to feel excited about the new prospects; your feelings of excitement are the compass of your true destiny.
+        Take a moment to analyze the path you traveled and see how you grew and matured in the process. You are now ready to reach even further. Do not be afraid to think big.</string>
+    <string name="wands_four_advice">If you are not planning a wedding, then the 4 of Wands as advice can indicate that you should go out and mingle with people.
+        Start making plans to go to events, parties and casual or formal dining with friends. You never know who you could meet.</string>
+    <string name="wands_five_advice">: Do whatever you need to do to stand out. Everyone is going to be fighting to win; you have to fight to win as well, but also fight differently, creatively.
+        Whoever is judging this competition is as interested in originality as they are in a \"winner\".</string>
+    <string name="wands_six_advice">Establish a strong friendship. Compliment each other, show respect and support. Relating to the lovers it is a very promising card. Communicate with confidence.</string>
+    <string name="wands_seven_advice">Have the courage even against the odds. Know without a doubt that you can do it on your own.
+        Combine the lion heart of Leo with the Mars Aries logic to come up with the strength of will to persevere. Believe in yourself</string>
+    <string name="wands_eight_advice">Do it. Go for it. The Eight of Wands is already poised to hit its target, so continue on the path you are going down.
+        If you want to send your boyfriend a text message professing your feelings, do this. On the other hand, if you want to break up with your girlfriend, do this.
+        Whatever it is that you feel you need to do, go ahead and continue with the plans to finish it.\n
+        The Eight of Wands can also indicate physical activity. Marathon running and brisk walking. As advice for a healthy body,
+        the Eight of Wands indicates that you should train hard for the marathon or hit the gym and follow through with your goals.</string>
+    <string name="wands_nine_advice">Whatever you are doing, keep going, but be cautious. You may have to go about it alone for a while. The focus should be on you for the time being.
+        Take time out to rethink your strategy because whatever you were doing does not seem to be working. The main theme no matter the position: You are missing the mark.
+        Time to figure out what you are doing that is causing a ill-fortunate events.
+        If you have an actual injury, the time is to rest and relax. Just chill. Do not worry so much about things you cannot control. Heal so you can continue.</string>
+    <string name="wands_ten_advice">If you want to achieve big things, you must be willing to put in the blood, sweat and tears. Put your back into it!
+        This card may be advising you to persevere, even though the burdens feel heavy.
+        The Ten of Wands may also be advising to take on extra responsibilities. These responsibilities could be anything from new duties at work to taking care of a family member.
+        Things may feel rough at this time, but you\’ve got this. You are strong. You can do this!
+If you are feeling overloaded, this card can also advise to seek help rather than going it alone.</string>
+    <string name="wands_page_advice">This card advising actively seeking out learning experiences. Not just school but also jobs that build skills or life experiences that may bring valuable lessons. Be open to any and all learning experiences.
+        In a question about career, this card could advise seeking higher education or an internship.
+        If you are asking about taking on a new job, the Page of Wands advises – yes. This will be a feather in your cap.
+        In some questions, this card can also advise to speak up. Express yourself! In some cases, this may be speaking out – if you see something that bothers you, say something.
+        The Page of Wands can also advise to begin taking steps to start a business or a new creative venture.
+        If you are feeling physically drawn to someone, the Page of Wands says: go for it!</string>
+    <string name="wands_knight_advice">The Knight of Wands advises you to just jump in. It may not be the right time to sit back and think about something. You need to momentum to propel you forward.
+        The Knight of Wands suggests that you need to be bold about something and advises that you take a chance and just \"do it\".</string>
+    <string name="wands_king_advice">Put all your energy into it, raise your voice and be heard, give it all your charisma, all your spiritual belief. Have no doubts. The King of Wands shouts,
+        \"I am going!\" and he leads the way with such energy and charisma and belief that people run after him.</string>
+    <string name="wands_queen_advice">The Queen of Wands urges you to have an optimistic sunny attitude. Get up and go! Just do it!
+        She urges you that today is a new day. Wake up and make it your best!
+        As Advice, the Queen of Wands suggests organization and planning. It also suggests speaking your mind about a situation. If you are afraid to ask your boss for a raise, the Queen of Wands suggests that you just ask.</string>
+
+
+    <string name="pentacles_ace_advice"></string>
+    <string name="pentacles_two_advice"></string>
+    <string name="pentacles_three_advice"></string>
+    <string name="pentacles_four_advice"></string>
+    <string name="pentacles_five_advice"></string>
+    <string name="pentacles_six_advice"></string>
+    <string name="pentacles_seven_advice"></string>
+    <string name="pentacles_eight_advice"></string>
+    <string name="pentacles_nine_advice"></string>
+    <string name="pentacles_ten_advice"></string>
+    <string name="pentacles_page_advice"></string>
+    <string name="pentacles_knight_advice"></string>
+    <string name="pentacles_queen_advice"></string>
+    <string name="pentacles_king_advice"></string>
+
+
+
+
+    <string name="cups_ace_advice"></string>
+    <string name="cups_two_advice"></string>
+    <string name="cups_three_advice"></string>
+    <string name="cups_four_advice"></string>
+    <string name="cups_five_advice"></string>
+    <string name="cups_six_advice"></string>
+    <string name="cups_seven_advice"></string>
+    <string name="cups_eight_advice"></string>
+    <string name="cups_nine_advice"></string>
+    <string name="cups_ten_advice"></string>
+    <string name="cups_page_advice"></string>
+    <string name="cups_knight_advice"></string>
+    <string name="cups_queen_advice"></string>
+    <string name="cups_king_advice"></string>
+
+
+    <string name="swords_ace_advice"></string>
+    <string name="swords_two_advice"></string>
+    <string name="swords_three_advice"></string>
+    <string name="swords_four_advice"></string>
+    <string name="swords_five_advice"></string>
+    <string name="swords_six_advice"></string>
+    <string name="swords_seven_advice"></string>
+    <string name="swords_eight_advice"></string>
+    <string name="swords_nine_advice"></string>
+    <string name="swords_ten_advice"></string>
+    <string name="swords_page_advice"></string>
+    <string name="swords_knight_advice"></string>
+    <string name="swords_queen_advice"></string>
+    <string name="swords_king_advice"></string>
+
+
+
+
+
+
+
+
 </resources>
